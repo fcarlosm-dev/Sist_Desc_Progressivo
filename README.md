@@ -10,4 +10,4 @@ O usuário deve inserir o valor total da compra e, em seguida, será calculado e
 O sistema não aceita valor negativo.
 O sistema usa ponto (.) como separador decimal. Exemplo: 199.99
 Caso haja erro na entrada da informação, o sistema solicita nova entrada.
-Estando corretas as informações, é feito o cálculo, apresentado o resultado e encerrado o sistema é finalizado.
+Estando corretas as informações, é feito o cálculo, apresentado o resultado e o sistema é finalizado.
