@@ -101,54 +101,6 @@ cd Sist_Desc_Progressivo
 ```bash
 python FlavioMartins_Ag6_DS_I.py
 ```
-
-4. **Siga as instruções na tela:**
-
-```text
-Digite o valor total da compra: R$ 250.00
-```
-
-5. **Informe se deseja continuar:**
-
-```text
-Deseja informar novo valor de compra? S / N 
-```
-
----
-
-## 💻 Exemplo de Uso
-
-```text
-==================================================
-       SISTEMA DE DESCONTO PROGRESSIVO
-==================================================
-
-Regras de desconto:
-- Compras abaixo de R$ 200,00: 5% de desconto
-- Compras entre R$ 200,00 e R$ 299,99: 10% de desconto
-- Compras acima de R$ 300,00: 15% de desconto
-==================================================
-
-Digite o valor total da compra: R$ 250.00
-
-==================================================
-          RESULTADO DO CÁLCULO
-==================================================
-Valor total da compra:     R$ 250.00
-Percentual de desconto:    10%
-Valor do desconto:         R$ 25.00
-Valor a pagar:             R$ 225.00
-==================================================
-
-💡 Compre mais R$ 50.00 para ganhar 15% de desconto!
-
-Deseja informar novo valor de compra? (S/N): N
-
-==================================================
-   Agradeçemos sua visita. Volte sempre!!
-==================================================
-```
-
 ---
 
 ## 📁 Estrutura do Projeto
@@ -159,14 +111,6 @@ Sist_Desc_Progressivo/
 ├── sist_desc_progressivo.py   # Código-fonte principal
 ├── README.md                  # Documentação do projeto
                   
----
-
-## 🏷️ Badges do Projeto
-
-![Made in Brazil](https://img.shields.io/badge/Made%20in-Brazil%20%F0%9F%87%A7%F0%9F%87%B7-green?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)
-
 ---
 
 ## 👨‍💻 Autor
