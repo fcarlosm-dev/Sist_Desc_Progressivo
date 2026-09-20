@@ -11,14 +11,13 @@
 
 ## 📌 Índice
 
-[Sobre o Projeto](#-sobre-o-projeto)
-[Regras de Desconto](#-regras-de-desconto)
-[Funcionalidades](#-funcionalidades)
-[Tecnologias Utilizadas](#-tecnologias-utilizadas)
-[Como Executar](#-como-executar)
-[Exemplo de Uso](#-exemplo-de-uso)
-[Estrutura do Projeto](#-estrutura-do-projeto)
-[Licença](#-licença)
+-[Sobre o Projeto](#-sobre-o-projeto)
+-[Regras de Desconto](#-regras-de-desconto)
+-[Funcionalidades](#-funcionalidades)
+-[Tecnologias Utilizadas](#-tecnologias-utilizadas)
+-[Como Executar](#-como-executar)
+-[Exemplo de Uso](#-exemplo-de-uso)
+-[Estrutura do Projeto](#-estrutura-do-projeto)
 
 ---
 
@@ -160,9 +159,7 @@ Sist_Desc_Progressivo/
 │
 ├── sist_desc_progressivo.py   # Código-fonte principal
 ├── README.md                  # Documentação do projeto
-└── LICENSE                   
-```
-
+                  
 ---
 
 ## 🏷️ Badges do Projeto
