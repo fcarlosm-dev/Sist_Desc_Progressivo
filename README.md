@@ -1,7 +1,6 @@
 # 💰 Sist_Desc_Progressivo
 
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Energia](https://img.shields.io/badge/Feito%20com-Energia%20%E2%9A%A1-FFD700?style=for-the-badge)
 
