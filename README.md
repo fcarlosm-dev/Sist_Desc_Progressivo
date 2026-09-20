@@ -179,6 +179,5 @@ Desenvolvido por **Flavio Martins**
 
 ---
 
-<p align="center">
-  ⭐ Se este projeto te ajudou, deixe uma estrela no repositório! ⭐
-</p>
+  Se este projeto é útil para voce e faz sentido, deixe sua ⭐ no repositório! Obrigado.
+
