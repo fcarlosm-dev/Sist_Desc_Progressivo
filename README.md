@@ -112,7 +112,7 @@ Digite o valor total da compra: R$ 250.00
 5. **Informe se deseja continuar:**
 
 ```text
-Deseja informar novo valor de compra? (S/N): N
+Deseja informar novo valor de compra? S / N 
 ```
 
 ---
