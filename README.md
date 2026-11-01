@@ -122,5 +122,5 @@ Desenvolvido por **Flavio Martins**
 
 ---
 
-  Se este projeto é útil para voce e faz sentido, deixe sua ⭐ no repositório! Obrigado.
+  Se este projeto é útil para voce e se fizer sentido, deixe sua ⭐ no repositório! Obrigado.
 
